@@ -10,7 +10,8 @@ Testing: Thoroughly tested in various environments to guarantee performance.
 
 🛠️ Technologies Used:
 Shell Scripting
-AWS
+AWS EC2 Instance
+Security Group
 
 💡 Learning Outcomes:
 Enhanced my understanding of shell scripting and automation.
