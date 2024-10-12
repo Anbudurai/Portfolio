@@ -1,0 +1,9 @@
+Project Overview: ASG, ALB, and CloudWatch
+
+ASG (Auto Scaling Groups): This project leverages ASG to ensure application availability and performance by automatically scaling EC2 instances based on demand.
+                          This ensures cost-efficiency and consistent performance.
+
+ALB (Application Load Balancer): I implemented ALB to distribute incoming traffic across multiple targets, such as EC2 instances, improving application responsiveness and reliability.
+
+CloudWatch: Utilizing Amazon CloudWatch, I monitor and manage AWS resources, applications, and services in real-time.
+            CloudWatch provides actionable insights through logs, metrics, and alarms, enabling proactive management and optimization.
