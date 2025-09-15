@@ -1,0 +1,11 @@
+Hi Team,
+Excited to share my latest project – an AI-powered chatbot for pizza restaurant reviews and customer interaction! 🍕🤖
+Leveraging LangChain, the robust embedding capabilities of Ollama, and scalable vector storage via Chroma, this solution provides restaurant teams and guests with instant, intelligent answers grounded in real customer feedback.
+Key highlights:
+Seamlessly imports and embeds customer reviews from CSV data
+Builds a context-aware database for fast semantic search and retrieval
+Uses Retrieval-Augmented Generation (RAG) to answer any pizza-related question with the most relevant reviews
+Interactive chatbot interface for dynamic Q&A – ask about menu items, experiences, and more, and get expert, review-backed responses
+This project demonstrates the power of combining LLMs and vector stores to elevate customer engagement and service quality in the restaurant industry. AI not only streamlines support but also surfaces authentic, actionable insights from real-world feedback.
+Ready to collaborate or innovate further in food tech and conversational AI? Let’s connect!
+hashtag#AI hashtag#LangChain hashtag#Ollama hashtag#Chroma hashtag#RestaurantTech hashtag#FoodTech hashtag#CustomerExperience hashtag#Pizza hashtag#Chatbots hashtag#NLP hashtag#MachineLearning
