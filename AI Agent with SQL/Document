@@ -1,0 +1,9 @@
+🚀 Just wrapped up my latest project: AI Agent with SQL 🧠💻
+This intelligent agent converts natural language questions into SQL queries using LangChain and Perplexity AI, then runs them on a MySQL database—all in real time!
+🔧 Tech Stack:
+LangChain
+Perplexity (Sonar model)
+MySQL
+Python
+📊 Use case: Ask questions like “Show all employees who joined after 2020” and instantly get the SQL query + results.
+Check out the architecture, prompt engineering, and interactive loop in action. Proud to see it working end-to-end!
